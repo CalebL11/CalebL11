@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, this is a productiviy website designed to meet my needs.
 
 <!--
 **CalebL11/CalebL11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
